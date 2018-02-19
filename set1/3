@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+char vo,va;
+printf("enter the values va");
+scanf("%c",&va);
+if(vo="a,e,i,o,u")
+printf("values is vowel");
+else
+printf("values is constant");
+}
