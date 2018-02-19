@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+char alt;
+printf("enter the values alt");
+scanf("%c",&alt);
+if((alt>='a'&&alt<='z')||(alt>='A'&&alt<='Z'))
+printf("\n alphapet");
+else
+printf("\n no");
+}
